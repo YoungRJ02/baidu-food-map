@@ -94,7 +94,7 @@
     </div>
 
     <a-layout-footer :style="{ textAlign: 'center' }">
-        Created by Charles Stark ©2023
+        Created by Young ©2023
     </a-layout-footer>
 </template>
 
