@@ -9,7 +9,6 @@ const app = createApp(App)
 app.use(router)
 app.use(Antd)
 app.use(BaiduMap, {
-    // ak: 'GRWD17zy6nGRtoApKI2qIqOCxFCCkAK0'
-    ak: 'AtGLP0EjU2Gk8HK4KSeD8aDSSL41MWAe'
+    ak: 'AK码'
 })
 app.mount('#app')
