@@ -1,7 +1,7 @@
 import request from "@/requests/request";
 
 // const ak = 'fdjLW98yyX2vP5ndvu7hynahuDQp9wsh'
-const ak = 'fnNTTwnc6Zu0T1rMTG0NvD9GFH17kKik'
+const ak = 'ak码'
 
 export function getPlaceList(pageSize, currentPage) {
     return request({
